@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **React, Javascript, Node.js, HTML, CSS, Mongo, SQL**
+- 💬 Ask me about **React, Javascript, Node.js, HTML, CSS, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex; width:20px; margin:auto; justify-content:space-between">
