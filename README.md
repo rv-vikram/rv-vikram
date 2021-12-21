@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish1217&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish1217" /> </p>
 
-- 🌱 I’m currently learning **full stack web development**
-
-- 💬 Ask me about **React, Javascript, Node.js, HTML, CSS, MongoDB**
+I am an aspiring Web Devloper. Proficient in React, Javascript. Attentive, dynamic, and creative software developer specialized in MERN stack. Eager to support the dev team with top-notch skills at a high-volume company. Seeks to use first-class production design and process skills to push forward overall customer experience.
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex; width:20px; margin:auto; justify-content:space-between">
